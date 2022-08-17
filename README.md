@@ -6,7 +6,7 @@ I also act as a freelancer developer, working with web development using techs l
 
 <br>
   
-## 🛠  Technologies and tools
+## 🛠  Techs and tools
   
 <br>
 
@@ -43,7 +43,6 @@ I also act as a freelancer developer, working with web development using techs l
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 &nbsp;
 
-<br>
 <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beto-alves&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/beto-alves/github-readme-stats)
