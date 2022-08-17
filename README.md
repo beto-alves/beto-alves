@@ -16,9 +16,11 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub Actions-282C34?logo=githubactions&logoColor=2088FF" alt="github actions logo" title="GitHub Actions" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ReactiveX-282C34?logo=reactivex&logoColor=B7178C" alt="reactivex logo" title="ReactiveX" height="25" />][tech_tools_anchor]
 &nbsp;
