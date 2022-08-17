@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Beto Alves</h1>
+<h1 align="left">Hi, I'm Beto Alves</h1>
+<img align="right" src="https://user-images.githubusercontent.com/1149463/185015934-4feab083-5995-4603-a63f-abd2dc7c4ae5.png" height="100" />
 <h3 align="center">I'm a mobile software developer from Brazil with about 9 years of Android development expertise.</h3>
 <h4 align="center">Currently I work as senior mobile software engineer and mobile tech lead at Solinftec, an AgTech company also from Brasil. 
 I also act as a freelancer developer, working with web development using techs like PHP, Laravel, JS and some other cool stuff.<h4>
-  
-<br>
+
 <br>
   
 ## 🛠  Technologies and tools
@@ -52,6 +52,6 @@ I also act as a freelancer developer, working with web development using techs l
 <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beto-alves&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/beto-alves/github-readme-stats)
-  
- [tech_tools_anchor]: #bonjour--
+
+[tech_tools_anchor]: #bonjour--
   
