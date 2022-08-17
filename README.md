@@ -42,7 +42,9 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/Vuetify-282C34?logo=vuetify&logoColor=1867C0" alt="Vuetify logo" title="Vuetify" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
 &nbsp;
 
 
