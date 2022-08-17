@@ -18,6 +18,8 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/ReactiveX-282C34?logo=reactivex&logoColor=B7178C" alt="reactivex logo" title="ReactiveX" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=F05138" alt="Swift logo" title="Swift" height="25" />][tech_tools_anchor]
@@ -34,7 +36,7 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/VueJS-282C34?logo=vuejs&logoColor=4FC08D" alt="VueJS logo" title="VueJS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/VueJS-282C34?logo=vue.js&logoColor=4FC08D" alt="VueJS logo" title="VueJS" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vuetify-282C34?logo=vuetify&logoColor=1867C0" alt="Vuetify logo" title="Vuetify" height="25" />][tech_tools_anchor]
 &nbsp;
