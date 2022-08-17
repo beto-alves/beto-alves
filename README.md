@@ -24,8 +24,6 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/ReactiveX-282C34?logo=reactivex&logoColor=B7178C" alt="reactivex logo" title="ReactiveX" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=F05138" alt="Swift logo" title="Swift" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
@@ -44,9 +42,6 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
-&nbsp;
-
 
 <br>
 <br>
