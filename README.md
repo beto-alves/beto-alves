@@ -24,21 +24,7 @@ I also act as a freelancer developer, working with web development using techs l
 &nbsp;
 [<img src="https://img.shields.io/badge/ReactiveX-282C34?logo=reactivex&logoColor=B7178C" alt="reactivex logo" title="ReactiveX" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VueJS-282C34?logo=vue.js&logoColor=4FC08D" alt="VueJS logo" title="VueJS" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Vuetify-282C34?logo=vuetify&logoColor=1867C0" alt="Vuetify logo" title="Vuetify" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 &nbsp;
